@@ -3,7 +3,7 @@ Bootstrap comme _framework front-end_
 
 <img src="./images/bootstrap.png" style="height:500px; display:block; margin:0 auto;" />
 
-https://getbootstrap.com
+https://getbootstrap.com - http://fontawesome.io/
 
 ---
 
@@ -96,6 +96,15 @@ http://getbootstrap.com/docs/4.0/getting-started/introduction/
 
 ---
 
+### Les formulaires 
+
+https://getbootstrap.com/docs/4.0/components/forms/
+
+
+![](./images/forms.png)
+
+---
+
 ### Exercice 1 (Exemple de réalisation) :
 
 Réaliser un ensemble fixe 2 puis 3 colonnes puis 1 colonne tel que suit :
@@ -121,3 +130,11 @@ Image ronde à partir de https://github.com/PonteIneptique/cours-css-framework/b
 ---
 
 ### Exercice 4
+
+<img src="./images/ex4.png" height="500px;"/> 
+
+---
+
+### Exercice 5
+
+<img src="./images/ex5.png" height="500px;"/> 
