@@ -1,8 +1,8 @@
 # La notion de front-end
 
-Le développement web se découpe traditionnellement en deux métiers distincts. D'une part, le métier de développeur front-end, d'autre part le métier de développeur back-end. Bien que l'on se retrouve très souvent avec des personnes dans l'obligation de remplir ces deux tâches, il s'agit véritablement de fonction distinctes qui font appelle à des modes de développements différents, tant du point de vue du langage que des résultats visibles.
+Le développement web se découpe traditionnellement en deux métiers distincts. D'une part, le métier de développeur front-end, d'autre part le métier de développeur back-end. Bien que l'on se retrouve très souvent avec des personnes dans l'obligation de remplir ces deux tâches, il s'agit véritablement de fonctions distinctes qui font appel à des modes de développements différents, tant du point de vue du langage que des résultats visibles.
 
-Par front-end et back-end, on distinge en fait deux morceaux de la chaîne de communication qui permet à un site de fournir une information à l'utilisateur. Cette distinction se pose entre ce qui est calculé du côté serveur, c'est-à-dire la machine qui héberge le site web, et du côté client, c'est à dire du côté de l'ordinateur de l'utilisateur.
+Par front-end et back-end, on distingue en fait deux morceaux de la chaîne de communication qui permet à un site de fournir une information à l'utilisateur. Cette distinction se pose entre ce qui est calculé du côté serveur, c'est-à-dire la machine qui héberge le site web, et du côté client, c'est à dire du côté de l'ordinateur de l'utilisateur.
 
 Dans le cas d'une ouverture de page web telle que le repository github de ce cours, on distinguera deux types d'interactions avec la page : d'une part, le calcul par le serveur de ce qui est demandé et la communication des données sous la forme d'une page html, d'autre part le calcul par l'ordinateur de l'utilisatrice de ce que veut dire l'ensemble des tags html, des styles CSS et des fonctions javascript qui produisent le résultat visuel pour la lectrice.
 
